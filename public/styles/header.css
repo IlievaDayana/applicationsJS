@@ -11,13 +11,15 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  font-size: 0.95rem;
+  color: inherit;
 }
 
 .header button {
   margin-left: 10px;
   margin-right: 10px;
   background: none;
-  color: none;
+  color: inherit;
   border: none;
   padding: 0;
   cursor: pointer;

@@ -5,11 +5,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 0.95rem;
+    color: inherit;
     & button {
         margin-left: 10px;
         margin-right: 10px;
         background: none;
-        color: none;
+        color: inherit;
         border: none;
         padding: 0;
         cursor: pointer;
